@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hi, I´M Andres Rojo👋</h1>
+<h1 align="center" font-size=3em>Hi, I´M Andres Rojo👋</h1>
 </div>
-<img width="100%" src="https://andres-rojo-software-development.onrender.com/_nuxt/logo.DLb9p6Kr.png">
+<img width="100%" height="400px" src="https://andres-rojo-software-development.onrender.com/_nuxt/logo.DLb9p6Kr.png">
 
 ## About me
  
