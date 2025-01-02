@@ -3,7 +3,7 @@
 </div>
 <img width="100%" src="https://andres-rojo-software-development.onrender.com/_nuxt/logo.DLb9p6Kr.png">
 
-## Sobre mi
+## About me
  
 - 📲 Web developer
 - ✏️ Data Analitic
@@ -58,3 +58,107 @@ The app is mainly responsible for the purchase and sale of these copies.</p>
 </table>                                                                                 
 </div>
 <br>
+
+## Programming languages
+
+ <table>
+<tr>
+<td width="50%">
+<h3 align="center">Javascript</h3>
+<div align="center">
+<img src="https://andres-rojo-software-development.onrender.com/_nuxt/javascript.Bu6ZFjaT.png" width="400" alt="">
+</div>                                                                                 
+</td>
+<td width="50%">
+               <br>
+<h3 align="center">Java</h3>
+<div align="center">                                       
+<img src="https://i.blogs.es/8d2420/650_1000_java/450_1000.webp" width="600" alt=""></a>
+<br>
+</div>                                                             
+</table>                                                                                 
+</div>
+
+
+ <table>
+<tr>
+<td width="100%">
+<h3 align="center">Python</h3>
+<div align="center">
+<img src="https://jahazielponce.com/wp-content/uploads/python.png" width="500" alt="">
+</div>                                                                                 
+</td>
+</table>    
+
+## frameworks programming languages
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Node JS</h3>
+<div align="center">
+<img src="https://www.muylinux.com/wp-content/uploads/2022/04/nodejs.png" width="600" alt="">
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Express JS</h3>
+<div align="center">                                       
+<img src="https://img.icons8.com/color/512/express-js.png" width="600" alt="">
+<br>
+<p>
+</p>
+
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Nest JS</h3>
+<div align="center">
+<img src="https://kinsta.com/wp-content/uploads/2022/06/nest-js-logo.png" width="600" alt="">
+</div>                                                                               
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Nuxt JS</h3>
+<div align="center">                                       
+<img src="https://miro.medium.com/v2/resize:fit:1000/1*qJppTMduXXhjgU2tZt9SfQ.png" width="600" alt">
+<br>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Vue JS</h3>
+<div align="center">
+<img src="https://api.otakoyi.software/uploads/content/2023/11/20/1280/vuejs-and-seo--your-steps-to-take-to-become-more-seo-friendly-317x237.webp" width="600" alt="">
+</div>                                                                              
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Vuetify JS</h3>
+<div align="center">                                       
+<img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" width="600" alt="">
+<br>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
+
+
+
+
+
+
