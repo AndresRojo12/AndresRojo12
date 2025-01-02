@@ -6,7 +6,7 @@
 ## About me
  
 - 📲 Web developer
-- ✏️ Data Analitic
+- ✏️ Data Analityc
 <br>
 
 ## Proyects
