@@ -79,7 +79,6 @@ The app is mainly responsible for the purchase and sale of these copies.</p>
 </table>                                                                                 
 </div>
 
-
  <table>
 <tr>
 <td width="50%">
@@ -90,7 +89,7 @@ The app is mainly responsible for the purchase and sale of these copies.</p>
 </td>
 </table>    
 
-## frameworks programming languages
+## Frameworks programming languages
 
 <table>
 <tr>
@@ -149,6 +148,46 @@ The app is mainly responsible for the purchase and sale of these copies.</p>
 <h3 align="center">Vuetify JS</h3>
 <div align="center">                                       
 <img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" width="600" alt="">
+<br>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+## Data Analitycs and Databases
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Power BI</h3>
+<div align="center">
+<img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" width="600" alt="">
+</div>                                                                               
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Jupiter</h3>
+<div align="center">                                       
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="600" alt">
+<br>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">PostgreSQL</h3>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="600" alt="">
+</div>                                                                              
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Mongo DB</h3>
+<div align="center">                                       
+<img src="https://www.returngis.net/wp-content/uploads/2019/08/MongoDB-logo.jpg" width="600" alt="">
 <br>
 </div>                                                             
 </table>                                                                                 
