@@ -82,7 +82,7 @@ The app is mainly responsible for the purchase and sale of these copies.</p>
 
  <table>
 <tr>
-<td width="100%">
+<td width="50%">
 <h3 align="center">Python</h3>
 <div align="center">
 <img src="https://jahazielponce.com/wp-content/uploads/python.png" width="480" alt="">
