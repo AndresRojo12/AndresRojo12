@@ -63,7 +63,7 @@ The app is mainly responsible for the purchase and sale of these copies.</p>
 
  <table>
 <tr>
-<td width="50%">
+<td width="50%" height="20%">
 <h3 align="center">Javascript</h3>
 <div align="center">
 <img src="https://andres-rojo-software-development.onrender.com/_nuxt/javascript.Bu6ZFjaT.png" width="400" alt="">
