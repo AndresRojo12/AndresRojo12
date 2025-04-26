@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/andres-rojo-6774a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andres-rojo-6774a" height="30" width="40" /></a>
-<a href="https://instagram.com/@andresrojo20013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@andresrojo20013" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@andresrojo855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@andresrojo855" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andres-rojo-6774a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andres-rojo-6774a" height="30" width="40" /></a>
+<a href="https://instagram.com/andresrojo20013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@andresrojo20013" height="30" width="40" /></a>
+<a href="https://youtube.com/@andresrojo855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@andresrojo855" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
