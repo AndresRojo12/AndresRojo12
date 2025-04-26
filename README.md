@@ -3,11 +3,16 @@
 
 - 🔭 I’m currently working on **Store_nest**
 
-- 🌱 I’m currently learning **Nest js, Python, Análisis de datos**
+- 🌱 I’m currently learning **Nest js, Python,  Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://andresrojosoftwaredev.com/](https://andresrojosoftwaredev.com/)
 
-- 💬 Ask me about **Web Developer, Data Analytics, Data science Machine learning AI**
+- 💬 Ask me about **
+  - Web Developer
+  - Data Analytics
+  - Data science
+  - Machine learning
+  - AI**
 
 - 📫 How to reach me **andresrojo20013@gmail.com**
 
