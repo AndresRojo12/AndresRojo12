@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Nest js, Python,  Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://andresrojosoftwaredev.com/](https://andresrojosoftwaredev.com/)
+- [![AWS Certified Badge](https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/1d55e6ab-95fd-4662-8600-3d2b9efe5f47/public_url)
+
 
 - 💬 Ask me about **
   - Web Developer
