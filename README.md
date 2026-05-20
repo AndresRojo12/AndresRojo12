@@ -2,13 +2,13 @@
 
 💻 Full Stack Developer | Software Development  
 
-🔭 I’m currently working on **Store_nest**
+🔭 I’m currently working on **Men_Women_Gym**
 
 🌱 I’m currently learning  
 NestJS • Python • Data Analytics • Machine Learning • AI
 
 👨‍💻 Portfolio  
-https://andresrojosoftwaredev.com/
+https://andres-rojo-software-development.onrender.com/
 
 📫 Contact  
 andresrojo20013@gmail.com
@@ -31,10 +31,10 @@ https://github.com/andresrojo12
 # 🚀 Tech Stack
 
 ## Backend
-Node.js • NestJS • Express
+Node.js • NestJS • Express • Python • FastApi
 
 ## Frontend
-Vue • Nuxt • React • HTML • CSS • JavaScript
+Vue • Nuxt • React • React Native • HTML • CSS • JavaScript
 
 ## Databases
 PostgreSQL • MongoDB • MySQL • SQLite
@@ -57,9 +57,9 @@ Includes authentication, REST API structure, and scalable architecture.
 Fitness application for managing workouts and exercises.  
 Built with **React Native** and backend API integration.
 
-### 📦 Inventory Management System
+### 📦 Inventory Management System - Market Pro
 Full-stack inventory system with authentication and CRUD operations.  
-Built with **Node.js**, **Vue**, and **PostgreSQL**.
+Built with **FastApi**, **React**, and **PostgreSQL - SQLite**.
 
 ---
 
@@ -73,7 +73,7 @@ Built with **Node.js**, **Vue**, and **PostgreSQL**.
 
 # 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,vue,nuxt,react,postgres,mongodb,mysql,sqlite,aws,git,python,js,ts)
+![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,vue,nuxt,react,postgres,mongodb,mysql,sqlite,aws,git,python,js,ts)
 
 ---
 
