@@ -1,11 +1,11 @@
 # Hi 👋, I'm Andres Rojo
 
-💻 Full Stack Developer | Software Development  
+💻 Software engineer | Full Stack Developer | Software Development  
 
-🔭 I’m currently working on **Men_Women_Gym**
+🔭 I’m currently working on **Men_Women_Gym** **Market Pro**
 
 🌱 I’m currently learning  
-NestJS • Python • Data Analytics • Machine Learning • AI
+NestJS • Python • FastApi • Data Analytics • Machine Learning • AI
 
 👨‍💻 Portfolio  
 https://andres-rojo-software-development.onrender.com/
