@@ -1,81 +1,113 @@
-# Hi 👋, I'm Andres Rojo
-![DayFactures](FB_IMG_1780421969786.jpg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=98FFD5&background=FFEEE700&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Andr%C3%A9s+Rojo" alt="Typing SVG" />
 
-💻 Software engineer | Full Stack Developer | Software Development  
+<p align="center">
+  <img src="FB_IMG_1780421969786.jpg" width="100%" height=600px>
+</p>
 
-🔭 I’m currently working on **Men_Women_Gym** **Market Pro**
+<h3 align="center">
+Software Engineer | Full Stack Developer | Node.js | NestJS | Vue | React | FastAPI
+</h3>
 
-🌱 I’m currently learning  
-NestJS • Python • FastApi • Data Analytics • Machine Learning • AI
+## Full Stack Developer
 
-👨‍💻 Portfolio  
-https://andres-rojo-software-development.onrender.com/
+Passionate about building scalable web applications using modern technologies such as Node.js, NestJS, React, Vue, Nuxt, and FastAPI.
 
-📫 Contact  
-andresrojo20013@gmail.com
+I enjoy developing business solutions focused on:
+- Inventory Management
+- Billing Systems
+- REST APIs
+- Process Automation
+- SaaS Applications
 
----
+📍 Colombia
+🌎 Open to Remote Opportunities
 
-## 🌐 Connect with me
+## 🚀 About Me
 
-LinkedIn  
-https://www.linkedin.com/in/andres-rojo-6774a12b5
+- 💻 Full Stack Developer with experience in frontend and backend development.
+- 🔧 Experienced building inventory and billing management systems.
+- 🌱 Currently learning Software Testing, QA Automation, DevOps, and Cloud Technologies.
+- 📚 Interested in Software Architecture and Microservices.
+- 🎯 Goal: Contribute to impactful products while continuously improving my technical skills.
 
-YouTube  
-https://youtube.com/@andresrojo855
+## 🛠 Tech Stack
 
-GitHub  
-https://github.com/andresrojo12
+### Frontend
+- React
+- Vue.js
+- Nuxt.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Vuetify
+- Talwind
 
----
+### Backend
+- Node.js
+- Express.js
+- NestJS
+- FastAPI
 
-# 🚀 Tech Stack
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
 
-## Backend
-Node.js • NestJS • Express • Python • FastApi
+### Tools
+- Git
+- GitHub
+- Linux
+- Docker
+- Postman
+- Swagger
 
-## Frontend
-Vue • Nuxt • React • React Native • HTML • CSS • JavaScript
+## 💼 Featured Projects
 
-## Databases
-PostgreSQL • MongoDB • MySQL • SQLite
+### Men_Women_Gym
 
-## DevOps & Tools
-• AWS  • Git
+A web application designed to manage products, sales, stock movements, and inventory tracking.
 
-## Data & AI
-Python • Pandas • Data Analytics • Machine Learning
+**Tech Stack**
+- Talwind
+- React.js
+- Node.js
+- Nest.js
+- TypeOrm
+- PostgreSQL
 
----
+### 🧾 Billing & Invoicing System
 
-# 🚀 Featured Projects
+Desktop application for managing invoices, customers, products, and sales operations.
 
-### 🛒 Store_nest
-Backend API built with **NestJS**, **PostgreSQL**, and **TypeScript**.  
-Includes authentication, REST API structure, and scalable architecture.
+**Tech Stack**
+- React
+- FastAPI
+- Electron
+- PostgreSQL
+- SQLite
 
-### 🏋️ Men_Women_Gym
-Fitness application for managing workouts and exercises.  
-Built with **React Native** and backend API integration.
+### 🌐 Business Websites & Landing Pages
 
-### 📦 Inventory Management System - Market Pro
-Full-stack inventory system with authentication and CRUD operations.  
-Built with **FastApi**, **React**, and **PostgreSQL - SQLite**.
+Responsive websites focused on SEO, lead generation, and business growth.
 
----
+## 📚 Currently Learning
 
-# 📊 GitHub Stats
+- Software Testing
+- API Testing
+- Performance Testing
+- QA Automation
+- Docker
+- CI/CD
+- Software Architecture
+- Microservices
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andresrojo12&show_icons=true)
+## 📫 Connect With Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresrojo12&layout=compact)
+- Email: andresrojo20013@gmail.com
+- LinkedIn: https://www.linkedin.com/in/andres-rojo-6774a12b5/
+- Portfolio: https://andres-rojo-software-development.onrender.com/
 
----
-
-# 🧰 Languages and Tools
-
-![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,vue,nuxt,react,postgres,mongodb,mysql,sqlite,aws,git,python,js,ts)
-
----
-
-⭐ Always learning and building new projects in **software development, data, and AI**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8AF79B&background=FFEEE700&width=435&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Web+Developer;Node+JS;Nest+JS;React+JS;Talwind;Python;FastApi;PostgreSQL;Sqlite" alt="Typing SVG" />
+</p>  
