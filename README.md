@@ -1,5 +1,6 @@
 # Hi 👋, I'm Andres Rojo
-![Portada](https://drive.google.com/uc?export=view&id=1CjwRNA54knwAY1X9ir1cqDG2amssthD6<img width="1024" height="1024" alt="FB_IMG_1780421969786" src="https://github.com/user-attachments/assets/ca2257d2-462f-4422-9d7f-ee2a3e9fff2a" />)
+![DayFactures](FB_IMG_1780421969786.jpg)
+
 💻 Software engineer | Full Stack Developer | Software Development  
 
 🔭 I’m currently working on **Men_Women_Gym** **Market Pro**
