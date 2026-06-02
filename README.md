@@ -76,7 +76,7 @@ A web application designed to manage products, sales, stock movements, and inven
 - TypeOrm
 - PostgreSQL
 
-### 🧾 Billing & Invoicing System
+### 🧾 Billing & Invoicing System - Market Pro
 
 Desktop application for managing invoices, customers, products, and sales operations.
 
