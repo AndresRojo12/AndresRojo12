@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=98FFD5&background=FFEEE700&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Andr%C3%A9s+Rojo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=98FFD5&background=FFEEE700&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Andres+Rojo" alt="Typing SVG" />
 
 <p align="center">
   <img src="FB_IMG_1780421969786.jpg" width="100%" height=600px>
